@@ -1,0 +1,29 @@
+- title: 首页
+  url: "/"
+  side: left
+
+- title: "Spring"
+  url: "/spring/"
+  side: left
+
+- title: "Redis"
+  url: "/redis/"
+  side: left
+
+- title: "Kafka"
+  url: "/kafka/"
+  side: left
+
+- title: "MySQL"
+  url: "/mysql/"
+  side: left
+
+
+- title: "归档"
+  url: "/archive/"
+  side: left
+
+- title: "搜索"
+  url: "/search/"
+  side: right
+
