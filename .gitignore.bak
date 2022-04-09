@@ -26,14 +26,3 @@ hs_err_pid*
 /.idea/vcs.xml
 /.idea/modules.xml
 /javamianshi.iml
-
-
-*.gem
-.bundle
-.ruby-version
-.jekyll-cache
-.sass-cache
-_site
-Gemfile.lock
-node_modules
-
