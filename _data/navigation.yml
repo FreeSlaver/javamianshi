@@ -1,23 +1,80 @@
-- title: 首页
+- title: Java面试题网
   url: "/"
   side: left
 
-- title: "Spring"
-  url: "/spring/"
+- title: "Java面试题"
+  #url: "#"
   side: left
+  dropdown:
+    - title: "Java基础面试题"
+      url: "/java-core-mians/"
+      side: left
+    - title: "多线程面试题"
+      url: "/multi-thread-mians/"
+      side: left
+    - title: "JVM面试题"
+      url: "/jvm-mians/"
+      side: left
+    - title: "MySQL面试题"
+      url: "/mysql-mians/"
+      side: left
+    - title: "Spring面试题"
+      url: "/spring-mians/"
+      side: left
+    - title: "Redis面试题"
+      url: "/redis-mians/"
+      side: left
+    - title: "消息队列面试题"
+      url: "/mq-mians/"
+      side: left
+    - title: "Kafa面试题"
+      url: "/kafka-mians/"
+      side: left
+    - title: "Dubbo面试题"
+      url: "/dubbo-mians/"
+      side: left
+    - title: "算法与数据结构面试题"
+      url: "/algorithm-mians/"
+      side: left
 
-- title: "Redis"
-  url: "/redis/"
+- title: "Java教程"
+  #url: "#"
   side: left
+  dropdown:
+    - title: "Java基础教程"
+      url: "/java-core-course/"
+      side: left
+    - title: "多线程教程"
+      url: "/multi-thread-course/"
+      side: left
+    - title: "JVM教程"
+      url: "/jvm-course/"
+      side: left
+    - title: "MySQL教程"
+      url: "/mysql-course/"
+      side: left
+    - title: "Spring教程"
+      url: "/spring-course/"
+      side: left
+    - title: "Redis教程"
+      url: "/redis-course/"
+      side: left
+    - title: "消息队列教程"
+      url: "/mq-course/"
+      side: left
+    - title: "Kafa教程"
+      url: "/kafka-course/"
+      side: left
+    - title: "Dubbo教程"
+      url: "/dubbo-course/"
+      side: left
+    - title: "算法与数据结构教程"
+      url: "/algorithm-course/"
+      side: left
 
-- title: "Kafka"
-  url: "/kafka/"
+- title: "Java简历与求职"
+  url: "/resume-job/"
   side: left
-
-- title: "MySQL"
-  url: "/mysql/"
-  side: left
-
 
 - title: "归档"
   url: "/archive/"

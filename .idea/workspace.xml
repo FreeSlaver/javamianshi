@@ -3,6 +3,32 @@
   <component name="ChangeListManager">
     <list default="true" id="e9089545-3882-4254-b01d-20c8649a13f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/language.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/language.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/kafka/2015-06-22-ActiveMQ-Kahadb.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/kafka/2015-06-29-MQ-Acquired-Function.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/kafka/2015-09-21-ActiveMQInAction-Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/kafka/2017-02-25-Kafka-Command.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/kafka/2017-08-18-Kafka-Connect-Deploy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/kafka/2017-08-18-Kafka-Connect-Details.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/kafka/2017-08-18-Kafka-Connect-Develop-Details.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/kafka/2017-08-28-MySql-ETL-Using-Maxwell-Kafka-MaxwellSink.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/kafka/2017-09-13-Kafka-Message-Delivery-Semantics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/kafka/2018-07-02-Kafka-Tutorial-Kafka-Install-Run-Pseudo-Cluster .md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/header/default8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/java/mysql/2021-11-11-HowTo-Design-Database-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/career.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +37,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -45,13 +79,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -65,7 +101,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649504883220</updated>
-      <workItem from="1649504884668" duration="8170000" />
+      <workItem from="1649504884668" duration="9796000" />
+      <workItem from="1649547369345" duration="4452000" />
     </task>
     <servers />
   </component>
@@ -82,5 +119,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
