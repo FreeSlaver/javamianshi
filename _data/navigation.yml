@@ -37,7 +37,7 @@
       url: "/algorithm-mians/"
       side: left
 
-- title: "Java教程"
+- title: "Java自学教程"
   #url: "#"
   side: left
   dropdown:
@@ -74,6 +74,44 @@
 
 - title: "Java简历与求职"
   url: "/resume-job/"
+  side: left
+
+- title: "性能调优"
+  url: "#"
+  side: left
+  dropdown:
+    - title: "服务性能调优"
+      url: "/service-tune/"
+      side: left
+    - title: "MySQL性能调优"
+      url: "/mysql-tune/"
+      side: left
+    - title: "JVM性能调优"
+      url: "/jvm-tune/"
+      side: left
+
+- title: "线上故障"
+  url: "/online-fault/"
+  side: left
+
+- title: "Java面经"
+  url: "/interview-exp/"
+  side: left
+
+- title: "Java教程视频"
+  url: "/coure-video/"
+  side: left
+
+- title: "技术论文"
+  url: "/paper/"
+  side: left
+
+- title: "简历内推"
+  url: "/resume-interpolation/"
+  side: left
+
+- title: "简历自荐"
+  url: "/resume-recommend/"
   side: left
 
 - title: "归档"

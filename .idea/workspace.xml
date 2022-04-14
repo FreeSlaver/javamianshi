@@ -2,7 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9089545-3882-4254-b01d-20c8649a13f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/javacore/2022-01-01-JavaCore-Basic-Concepts-1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/javacore/2022-01-02-JavaCore-Basic-Concepts-OOP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/jvm/2022-03-01-JVM-Mians.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/jvm/2022-04-10-JVM-Mians-Questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/kafka/2022-01-01-Kafka-Mians-Questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/kafka/2022-01-02-Kafka-Mians-Questions-Answer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/kafka/2022-01-05-Kafka-Mians-Classic.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/kafka/2022-04-03-Kafka-Mians-EightYears.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/multi-thread/2022-02-03-Java-TreadPool-Mians.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/multi-thread/2022-04-09-Multi-Thread-Mians-All.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/multi-thread/2022-04-10-Multi-Thread-Mians-Recent.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/redis/2022-04-01-Redis-Mians-Questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/redis/2022-04-03-Redis-Mians-Questions-All.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/redis/2022-04-05-Redis-Mians-Recite.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/redis/2022-04-06-Redis-Mians-Hurry.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/spring/2021-01-03-Spring-Mians-Questions-All.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/spring/2022-01-01-Spring-Mians-Classic-15Questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/spring/2022-01-02-Spring-Mians-Questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/spring/2022-01-04-Spring-Mians-Questions-Summary.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/spring/2022-01-05-Spring-Mians-Questions-New.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-mians/spring/2022-03-04-Spring-Mians.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/java-mians/spring/2022-03-04-Spring-Mians.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/java-mians/jvm-mians.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/java-mians/kafka-mians.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/java-mians/multi-thread-mians.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/java-mians/spring-mians.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +69,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages/java-mians" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -49,19 +78,19 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\makemoney\javamianshi\pages\java-mians" />
+      <recent name="D:\makemoney\javamianshi" />
       <recent name="D:\makemoney\javamianshi\_posts" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,7 +105,13 @@
       <option name="presentableId" value="Default" />
       <updated>1649504883220</updated>
       <workItem from="1649504884668" duration="9796000" />
-      <workItem from="1649547369345" duration="5004000" />
+      <workItem from="1649547369345" duration="6788000" />
+      <workItem from="1649554201930" duration="9508000" />
+      <workItem from="1649598849120" duration="1243000" />
+      <workItem from="1649635324467" duration="585000" />
+      <workItem from="1649688197452" duration="968000" />
+      <workItem from="1649753346824" duration="1200000" />
+      <workItem from="1649925248216" duration="774000" />
     </task>
     <servers />
   </component>
