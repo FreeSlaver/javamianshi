@@ -24,7 +24,7 @@ author: Java面试题
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'javamians.xyz'
+url: 'https://javamians.xyz'
 #baseurl: '/feeling-responsive'
 
 # This is for the editing function in _/includes/improve_content
@@ -37,7 +37,7 @@ improve_content: https://github.com/songxin1990/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://3gods.com/img/'
+urlimg: 'https://javamians.xyz/img/'
 #urlimg: 'http://localhost:4000/img/'
 
 # Logo size is 600x80 pixels
@@ -230,7 +230,7 @@ sass:
 
 ga:
   id: UA-49965095-1
-  url: 3gods.com
+  url: javamians.xyz
 
 
 #   _                 _     _
