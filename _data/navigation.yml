@@ -7,34 +7,34 @@
   side: left
   dropdown:
     - title: "Java基础面试题"
-      url: "/java-core-mians/"
+      url: "/core/"
       side: left
     - title: "多线程面试题"
-      url: "/multi-thread-mians/"
+      url: "/multi-thread/"
       side: left
     - title: "JVM面试题"
-      url: "/jvm-mians/"
+      url: "/jvm/"
       side: left
     - title: "MySQL面试题"
-      url: "/mysql-mians/"
+      url: "/mysql/"
       side: left
     - title: "Spring面试题"
-      url: "/spring-mians/"
+      url: "/spring/"
       side: left
     - title: "Redis面试题"
-      url: "/redis-mians/"
+      url: "/redis/"
       side: left
     - title: "消息队列面试题"
-      url: "/mq-mians/"
+      url: "/mq/"
       side: left
     - title: "Kafa面试题"
-      url: "/kafka-mians/"
+      url: "/kafka/"
       side: left
     - title: "Dubbo面试题"
-      url: "/dubbo-mians/"
+      url: "/dubbo/"
       side: left
     - title: "算法与数据结构面试题"
-      url: "/algorithm-mians/"
+      url: "/algorithm/"
       side: left
 
 - title: "Java自学教程"
@@ -42,7 +42,7 @@
   side: left
   dropdown:
     - title: "Java基础教程"
-      url: "/java-core-course/"
+      url: "/core-course/"
       side: left
     - title: "多线程教程"
       url: "/multi-thread-course/"
