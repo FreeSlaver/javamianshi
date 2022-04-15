@@ -16,7 +16,7 @@ Twitter: {{ author.twitter }}{% endif %}
 
 Name: Moritz »mo.« Sauer
 Role: Creator of the Theme
-Site: http://mo.phlow.de/
+Site: https://javamians.xyz/
 Twitter: @phlow
 Theme: http://phlow.github.io/feeling-responsive/
 

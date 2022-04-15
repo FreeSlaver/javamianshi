@@ -3,11 +3,286 @@
   <component name="ChangeListManager">
     <list default="true" id="dcfb83da-d797-40ac-acb8-e73099aef821" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/language.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/language.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/java-mians/spring/2022-03-04-Spring-Mians.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2015-03-04-Some-Suggestions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2015-05-09-Plan-Of-Life-In-2015.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2015-05-10-Hard-Choice.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2015-09-26-Day-Day-Up-Little.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2016-01-20-12-Suggestion-For-Java-Interview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2016-01-20-Architect-Interview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2016-02-13-2015-Year-Summary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2016-05-04-Seckill-System-Design.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2016-05-06-My-Interview-Question.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2016-08-18-Job-Salary-Learn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2016-12-31-Hard-Work-Live-Hard.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2017-01-12-Some-Point.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2017-02-03-Summarize2016-Outlook2017.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2017-02-14-Business-Or-Job-One-Life-One-Choice.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2017-06-06-Resume.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2017-12-29-Summary-2017-Outlook-2018.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2018-03-16-Why-Iam-Failing-In-Applying-AJob.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2018-03-22-Recent-Thoughts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2018-04-04-Once-An-Ali-Interview-Record.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2018-04-12-Why-I-Refuse-Ali-T6-Offer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2018-04-16-Should-Boss-Fire-A-Programmer-Who-Automated-His-Job.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2018-04-18-Why-Are-Company-Not-Hiring-Old-Programmer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2018-05-22-Resume-Fuck.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2018-06-27-What-I-Learned-From-The-Hell-Days.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2019-07-15-Fire-The-Boss-Experience.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/career/2022-03-15-Make-Money.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/book/2015-01-19-Economy-Books.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/book/2015-07-11-Read-Books.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/book/2015-07-22-Charlie-Munger-Books.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/book/2016-03-25-IT-BookList.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/book/2017-01-23-Tech-Recommend-Books.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/book/2017-02-03-Book-List.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/1989-04-02-me.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2011-02-10-Where-Are-You.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2011-02-15-The-Valentine's-Day-Without-ALover.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2011-05-16-The-Green-Years.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2011-06-23-Look-For-Life-Elsewhere.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2011-09-09-Talk-About-Her-Behinde-Internet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2012-04-03-Twin-Peaks-Film-Review.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2012-04-30-Black-Stockings.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2012-04-30-Flower-Moon-Underwater.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2012-05-26-The-Drugs-Of-Time.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2012-06-19-Gossip.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2012-08-09-How-To-Pursue-Woman.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2012-11-17-The-First-Time-Cook.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-01-21-Death-Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-01-21-Talk-About-China-TV.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-04-02-Cloud-And-Lake.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-04-02-First-Snow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-04-02-Sadly-It's-Not-You.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-04-11-My-Collegue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-07-02-Forecast-Of-2018.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-11-13-Character-Test-Report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-12-11-Beauty-Sequence.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-12-12-Guo-Qin-Lun.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2013-12-12-My-Favourite -Poems.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2014-02-22-I-Am-A-Legend.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2014-02-22-Plan-Of-2014.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2014-02-23-Inside-Outside-Wall.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2014-05-02-Black-White.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2014-08-15-2014ShenZhen-Cosplay.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2014-09-13-Listened-Music.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2014-12-01-Being-Alive-Really-Hard.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2015-06-21-Acknowledge.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2015-06-21-Xiao-Shen-Ke.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2015-06-23-Face-The-Future.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2015-09-27-2015-MidAutumn-Phoenix-Mountain.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2015-10-07-2015-NationalDay-BlindDate.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2016-02-16-About-23tier-House.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2016-06-06-China-Culture.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2016-08-10-Yin-Wang-Blog.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2016-12-31-Hard-Work-Live-Hard.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2017-03-11-Wish-You-Were-Here.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2017-07-07-Start-Writing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2017-07-30-Death-Of-LinBo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/essay/2017-09-12-3gods-Logo-Explaination.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/note/2012-12-12-The-Catcher-In-The-Rye.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/note/2014-09-07-Orange-Girl.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/note/2014-09-19-The-Little-Prince.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/note/2017-02-03-Sense-After-Funeral-Of-Muslim.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/note/2017-04-27-Open-Wechat-Official-Account.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/note/2017-04-30-Art-Of-Learn-Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/note/2017-07-30-SteveJobs-Biography.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/note/2017-08-26-HowTo-Read-ABook-Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/note/2017-09-05-Are-Your-Lights-On-Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/note/2018-03-31-Learn-More-Study-Less-Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-05-09-How-Can-You-Like-Her-ABitch.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-05-10-Waste-My-Life.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-05-15-Copy-On-Write.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-05-21-Log-Series-One.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-06-16-What-To-Do.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-07-17-Sm-Piece-Talk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-09-13-My-Dreams.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-09-14-8264.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2014-12-19-Aim-Zhihu.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-03-09-Catch-UpLimit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-06-22-ActiveMQ-Amq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-06-22-Maven-LocalJar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-07-20-Analog-HTTP-Request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-07-22-Async-LogUtil.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-07-22-One-Battle.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-07-25-Netty-HTTP-Server.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-07-30-Trade-Diary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-08-28-Music-NiuBi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-08-29-Trade-Diary20150829.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-09-01-JMX-Summary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-09-10-Auto-Deploy-Config.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2015-10-18-Over-Work.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-03-03-One-Scene-InMoring.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-03-09-Cutton-Close-Early.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-03-21-Qiniu-JAVA-Demo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-04-11-LogSys-Summary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-04-11-Porker-Resource.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-04-27-ShenZhen-Top-ITCompany.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-04-29-Java-Tech-Blog.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-05-14-Small-Pocket.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-06-19-Air.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-06-19-Sucks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-06-22-Coding-Experience-Summary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2016-08-16-Idea-Record-Quickly.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2017-01-12-Suspend-Trade.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/creation/trash/2017-02-10-Sbt-Summary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/growing/efficient/2017-05-01-Importance-Of-English.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/growing/efficient/2017-06-25-Information-Era-Programmer's-Advantages.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/growing/efficient/2017-08-27-My-Efficient-Tool-Box.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/growing/method/2017-02-06-How2-Fast-Learn-language.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/growing/method/2017-05-18-Learn-Method-Postgraduate-Summary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/growing/method/2017-09-02-Life-IsLike-Playing-Dota.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/growing/tips/2017-04-11-Google-Tips.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/growing/tips/2017-04-12-File-Naming-Tips.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/growing/tips/2018-07-25-Doing-Planed-Things.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java-mians/redis/2022-04-01-Redis-Mians-Questions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java-mians/redis/2022-04-03-Redis-Mians-Questions-All.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java-mians/redis/2022-04-05-Redis-Mians-Recite.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java-mians/redis/2022-04-06-Redis-Mians-Hurry.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java-mians/spring/2021-01-03-Spring-Mians-Questions-All.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java-mians/spring/2022-01-01-Spring-Mians-Classic-15Questions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java-mians/spring/2022-01-02-Spring-Mians-Questions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java-mians/spring/2022-01-04-Spring-Mians-Questions-Summary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java-mians/spring/2022-01-05-Spring-Mians-Questions-New.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/java-mians/spring/2022-03-04-Spring-Mians.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/kafka/2017-03-22-Kafka-Share.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/me/2016-01-01-Moods.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/me/2016-10-10-Quote.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/future/2015-01-26-Dollar-Blade.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/future/2016-02-15-Future-And-Zen.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/future/2016-02-15-Pottage-Geek-Opportunity.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/future/2016-02-19-PVC-Trade-Dairy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/future/2016-02-25-Future-Recent-Summary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/future/2016-03-02-Begin-Short-Trade.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/future/2016-03-14-Fight-And-Withdraw.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/future/2016-03-15-Fuck-RB-Continue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/future/2016-03-15-Future-Profit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/future/2016-03-17-RB-Fucked.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/future/2018-03-29-Why-Do-Wrong.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/future/2018-05-07-DouPo-Diary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/porker/2015-05-11-SNG-Game-Record-One.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-05-05-Texas-Holdem-Poker-Term.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-05-14-LittleCard-SmallPot.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-05-15-Porker-Fish.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-05-17-Porker-Summary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-05-22-Problem-Play.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-06-04-Gamble-Summary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-06-05-Inspiration-Of-Old-Gambler.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-06-13-Little-Green-Book-Note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-06-19-SNG-5-7.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/porker/2016-06-26-Serveral-Hands.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2013-07-11-Ten-Bubble.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2014-06-07-Little-Suggesion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2014-07-28-Shen-Tian-MaA.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2014-08-08-Look-True-After-False.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2014-08-24-Story-Of-Bull.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2014-10-13-Hunting-Market-Prejudice.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-01-19-Stock-Disasters-In-China.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-02-21-FireStock-SixCheats.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-03-08-Road-Of-Trade.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-03-27-Speculator.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-04-05-Bull-Stock-How-Fast.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-06-06-Tao-Of-Firing-Stocks.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-06-30-Stock-Mark-Pic.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-07-16-Spec-Train-Methon.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-08-29-Little-Trader.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-09-10-Pressure-Support-Resist-2Confirm-FlaseBreakout.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-09-30-Pretty-Bitch-Characteristic.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-10-12-Aidi-Interview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-10-13-Now-Desire.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-10-20-Logical-Reasoning-OverAndOverAgain .md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-11-03-Recent-Observation.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-12-02-Trade-Diary20151202.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-12-03-Differ-Think.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2015-12-08-GerErSx.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-02-04-Trade-Foreign-Website.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-02-05-Snow-Ball-Post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-02-14-Become2-Sucessful-Trade.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-02-15-Top-Trader-Road.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-02-15-Trade-Art-And-Heart-Freedom.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-03-09-Stock-Diamond-Sutra.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-03-10-Recent-Trade-Summary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-03-15-TianYa-Great-Post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-04-29-Stock-EasyTalk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-04-29-Zhen-Dang.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-04-30-Perfect-Buy-Point.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-05-05-Shen-Gong.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-05-17-Start-From-Possibility.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-08-10-Unconscious-Omniscient.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-08-15-Exterior-To-Interior.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-08-16-Power-Not-Price.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-08-18-Little-Egg-Pain.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-08-31-Know-Pathway.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-09-23-About-Wanke-Recent.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-12-10-Learn-Trade.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2016-12-23-Process-Of-Trend.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2017-01-09-Three-Points-Open-A-Position.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2018-07-24-Speculate-These-Years-This-Low-Level.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2019-05-24-Understand-Of-Dao-One-Two-Three.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2019-06-13-A-Way-Make-Money-On-Earth.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2019-06-17-Why-Making-Money-By-Speculating-Is-Almost-Impossible.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2022-02-06-Stock-Essence-Ten-Lecture-One.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2022-02-07-Stock-Essence-Ten-Lecture-Two.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2022-02-08-Stock-Essence-Ten-Lecture-Three.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2022-02-08-Stock-Newbee-Defence-Three-Tricks-Method.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2022-02-09-Stock-Newbee-Defence-Three-Tricks-StopLose.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/stock/2022-04-01-Fed-Rate-Fise-Stock-Bull-Market.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tao/2016-02-14-Wu-Dao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tao/2016-02-15-Meditation-Place.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tao/2016-04-30-Learn-Lotus-Position.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tao/2022-01-12-Stock-With-Tao-First.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2013-11-13-Trade-Idea.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2014-08-20-Againt-Breakout-System.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-03-01-Sky-Ladder-Strategy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-03-06-Three-Level-Risk.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-03-11-Construct-Your-Own-TradeSystem.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-03-20-Some-Trade-Strategy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2015-09-02-Machine-Trade-System.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2016-02-15-Crane-Dojo-Trade-Essence .md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2016-02-15-Trade-Correct-Start.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2016-04-31-Art-Of-Trap.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2016-08-16-Right-Buyin-Occasion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2016-08-24-This-Market.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/trade/tradesystem/2017-02-10-Speculate-Rational-Formula.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/travel/2014-02-23-Netherlands-Flower-Town.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/travel/2014-07-20-ShenZhen-Cosplay.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/travel/2015-05-31-Guang-Zhou.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/travel/2017-06-04-GuiZhou-Youji.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/travel/2017-06-10-Gui-Zhou.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/travel/2017-10-01-Tai-Wan.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/travel/2017-10-10-Best-Travel-Tips.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/travel/2019-12-01-YuNan-Travel-Tips.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2017-08-25-NotOnly-SEO-But-HowTo-Think.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2017-09-12-HowTo-Free-Design-Make-ALogo-Online.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2017-09-28-Personal-Website-BeiAn-Quickly.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2017-10-13-Virtual-Host-301Redirect-Jekyll-Using-Htaccess.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2017-10-27-SEO-Institute-Summary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-05-01-Free-HTTPS-SSL-Certification.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-05-16-QiNiu-Image-Hosting-Guard-Against-Flux-Attack.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-05-18-Github-Pages-Custom-Domain-HTTPS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-05-18-Jgit-Realize-Twitter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-06-13-Github-Pages-Baidu-Index-Nginx.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2018-06-20-Github-Pages-Baidu-Index-Tool.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/webmaster/2019-05-25-ShadowSocks-Install-Command.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/creation/book.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/creation/essay.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/creation/note.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/creation/trash.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/growing/efficient.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/growing/method.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/growing/tips.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/life/film.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/life/photography.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/life/travel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pages-root-folder/humans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pages/pages-root-folder/humans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/trade/future.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/trade/porker.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/trade/stock.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/trade/tao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/trade/tradesystem.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/trade/zen.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/website/seo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/website/webmaster.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +463,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -197,11 +472,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\makemoney\javamianshi\pages" />
+      <recent name="D:\makemoney\javamianshi" />
+      <recent name="D:\makemoney\javamianshi\_posts" />
+      <recent name="D:\makemoney\javamianshi\_data" />
       <recent name="D:\songxin1990.github.io\img\java" />
-      <recent name="D:\songxin1990.github.io\pages" />
-      <recent name="D:\songxin1990.github.io\pages\life" />
-      <recent name="D:\songxin1990.github.io\_posts\programming\java" />
-      <recent name="D:\songxin1990.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\songxin1990.github.io\_posts\java\distribute" />
