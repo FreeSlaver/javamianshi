@@ -11,13 +11,13 @@
 title: 'Java面试题'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Java面试题，阿里巴巴腾讯百度offer'
+slogan: '进击阿里巴巴腾讯百度offer'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'Java面试题'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p> <a href="/">3gods.com</a> Created with &hearts; by <a href="/me.html">宋鑫</a> &copy; 2013-2999 <a href="http://www.miitbeian.gov.cn" target="_blank" rel="nofollow">粤ICP备17122701号</a>.</p>'
+credits: '<p> <a href="/">Java面试题网</a> Created with &hearts; by <a href="/about.html">自由的巨人</a> &copy; 2013-2999 <a href="http://www.miitbeian.gov.cn" target="_blank" rel="nofollow">粤ICP备17122701号</a>.</p>'
 
 # Main author of the website
 author: Java面试题

@@ -6,7 +6,7 @@
   #url: "#"
   side: left
   dropdown:
-    - title: "Java基础面试题"
+    - title: "基础面试题"
       url: "/core/"
       side: left
     - title: "多线程面试题"
@@ -27,7 +27,7 @@
     - title: "消息队列面试题"
       url: "/mq/"
       side: left
-    - title: "Kafa面试题"
+    - title: "Kafka面试题"
       url: "/kafka/"
       side: left
     - title: "Dubbo面试题"
@@ -41,7 +41,10 @@
   #url: "#"
   side: left
   dropdown:
-    - title: "Java基础教程"
+    - title: "Java教程视频"
+      url: "/coure-video/"
+      side: left
+    - title: "基础教程"
       url: "/core-course/"
       side: left
     - title: "多线程教程"
@@ -75,6 +78,13 @@
 - title: "Java简历与求职"
   url: "/resume-job/"
   side: left
+  dropdown:
+    - title: "简历内推"
+      url: "/resume-interpolation/"
+      side: left
+    - title: "简历自荐"
+      url: "/resume-recommend/"
+      side: left
 
 - title: "性能调优"
   url: "#"
@@ -89,29 +99,21 @@
     - title: "JVM性能调优"
       url: "/jvm-tune/"
       side: left
+    - title: "线上故障"
+      url: "/online-fault/"
+      side: left
+    - title: "项目问题与挑战"
+      url: "/problem-challenge/"
+      side: left
 
-- title: "线上故障"
-  url: "/online-fault/"
-  side: left
 
 - title: "Java面经"
-  url: "/interview-exp/"
+  url: "interview-exps"
   side: left
 
-- title: "Java教程视频"
-  url: "/coure-video/"
-  side: left
 
 - title: "技术论文"
   url: "/paper/"
-  side: left
-
-- title: "简历内推"
-  url: "/resume-interpolation/"
-  side: left
-
-- title: "简历自荐"
-  url: "/resume-recommend/"
   side: left
 
 - title: "归档"
